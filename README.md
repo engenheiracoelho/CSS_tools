@@ -19,6 +19,11 @@ Para inserir uma nova ferramenta, curso, dica e afins, crie um PR e entre em con
 ## Ferramentas:
 
 - [Can I use](https://caniuse.com/) - indica se você pode usar um elemento para um navegador.
+- [Screen size map](https://screensizemap.com/) - demonstra o tamanho das telas para design responsivo. 
+- [CSS ruler](https://katydecorah.com/css-ruler/) - explore o tamanho das telas.
+- [CSS duotone](https://cssduotone.com/) - Gere o duotone para uma imagem.
+- [Pantone Sass](https://damonbauer.github.io/Pantone-Sass/) - Verifique as cores e seus códigos.
+- [Color Design](https://colordesigner.io/gradient-generator) - Gere os códigos para um gradiente de cores.
 
 ## Documentação:
 
@@ -57,8 +62,15 @@ Para inserir uma nova ferramenta, curso, dica e afins, crie um PR e entre em con
 
 ## Modelos prontos
 
-- [FANCY-BORDER-RADIUS](https://9elements.github.io/fancy-border-radius/#30.32.30.30--.) - Mostra como usar o border radius
-- [Free CSS](https://www.free-css.com/) - Muitos templates
-- [Font Awesome](https://fontawesome.com/) - Fontes para serem usadas
-- [Flexulator](https://www.flexulator.com/) - Visualize flexbox
-
+- [CSS3 generator](http://css3generator.com/) - Gerador de CSS.
+- [FANCY-BORDER-RADIUS](https://9elements.github.io/fancy-border-radius/#30.32.30.30--.) - Mostra como usar o border radius.
+- [Free CSS](https://www.free-css.com/) - Muitos templates.
+- [Font Awesome](https://fontawesome.com/) - Fontes para serem usadas.
+- [Flexulator](https://www.flexulator.com/) - Visualize flexbox.
+- [Enjoy CSS](https://enjoycss.com/) - Modelos de botões, inputs e blocos estilizados.
+- [Glyphsearch](https://glyphsearch.com/) - Modelos de ícones para usar.
+- [Fontello](https://fontello.com/) - Ícones SVG.
+- [Clip-path maker](https://bennettfeely.com/clippy/) - Permite que você crie recortes complexos em imagens.
+- [CSS Box shadow generator](https://cssbud.com/css-generator/css-box-shadow-generator/) - Gerador de sombra
+- [Neumorphism.io](https://neumorphism.io/#e0e0e0) - Gerador de profundidade do elemento
+- [Flexplorer](https://bennettfeely.com/flexplorer/) - Manipulador de flex
