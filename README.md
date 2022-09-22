@@ -15,6 +15,8 @@ Para inserir uma nova ferramenta, curso, dica e afins, crie um PR e entre em con
 ## Cursos gratuitos:
 
 - [web.dev | Aprenda CSS](https://web.dev/learn/css/)
+- [freecodecamp](https://www.freecodecamp.org/)
+- [Udemy](https://www.udemy.com/courses/search/?price=price-free&q=css&sort=relevance&src=ukw)
 
 ## Ferramentas:
 
@@ -37,6 +39,8 @@ Para inserir uma nova ferramenta, curso, dica e afins, crie um PR e entre em con
 - [Aprenda CSS!](https://web.dev/learn/css/)
 - [Site do Maujor](https://www.maujor.com/)
 - [Frontend Masters](https://frontendmasters.com/learn/css/)
+- [learn-html.org](https://learn-html.org/)
+- [theodinproject](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css)
 
 ## Frameworks:
 
@@ -74,3 +78,11 @@ Para inserir uma nova ferramenta, curso, dica e afins, crie um PR e entre em con
 - [CSS Box shadow generator](https://cssbud.com/css-generator/css-box-shadow-generator/) - Gerador de sombra
 - [Neumorphism.io](https://neumorphism.io/#e0e0e0) - Gerador de profundidade do elemento
 - [Flexplorer](https://bennettfeely.com/flexplorer/) - Manipulador de flex
+- [ui.Glass](https://ui.glass/generator/) - Gerador CSS Glassmorphism
+- [getWaves](https://getwaves.io/) - Gerador de ondas CSS
+- [grid.layoutit](https://grid.layoutit.com/) - Gerador de grid
+- [loading.io](https://loading.io/) - Gerador de animações
+- [best CSS Button Generator](https://www.bestcssbuttongenerator.com/) - Gerador de botões
+- [haikei](https://haikei.app/) - Gerador de SVG
+- [Hero Patterns](https://heropatterns.com/) - planos de fundo SVG
+- [Shadows Brumm](https://shadows.brumm.af/) - Gerador de sombras
