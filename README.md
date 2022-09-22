@@ -16,6 +16,7 @@ Para inserir uma nova ferramenta, curso, dica e afins, crie um PR e entre em con
 
 - [web.dev | Aprenda CSS](https://web.dev/learn/css/)
 - [freecodecamp](https://www.freecodecamp.org/)
+- [Udemy](https://www.udemy.com/courses/search/?price=price-free&q=css&sort=relevance&src=ukw)
 
 ## Ferramentas:
 
