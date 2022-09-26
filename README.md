@@ -51,6 +51,10 @@ Para inserir uma nova ferramenta, curso, dica e afins, crie um PR e entre em con
 ## Bibliotecas:
 
 - [Styled Components](https://styled-components.com/)
+- [Diez](https://diez.org/)
+- [Immutable Styles Website](https://callum-hart.github.io/immutable-styles-website/dist/index.html)
+- [Matter](https://github.com/finnhvman/matter)
+- [FlexBox Ninja](https://flexbox.ninja/)
 
 ## Sites para praticar:
 
