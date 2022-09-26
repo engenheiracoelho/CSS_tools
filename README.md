@@ -59,6 +59,8 @@ Para inserir uma nova ferramenta, curso, dica e afins, crie um PR e entre em con
 ## Sites para praticar:
 
 - [Frontend Mentor](https://www.frontendmentor.io/)
+- [W3Schools](https://www.w3schools.com/css/css_exercises.asp)
+- [100dayscss](https://100dayscss.com/)
 
 ## Jogos:
 
