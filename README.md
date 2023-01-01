@@ -17,6 +17,7 @@ Para inserir uma nova ferramenta, curso, dica e afins, crie um PR e entre em con
 - [web.dev | Aprenda CSS](https://web.dev/learn/css/)
 - [freecodecamp](https://www.freecodecamp.org/)
 - [Udemy](https://www.udemy.com/courses/search/?price=price-free&q=css&sort=relevance&src=ukw)
+- [Curso em Vídeo](https://www.cursoemvideo.com/cursos/) - Disponíveis 4 módulos de HTML/CSS
 
 ## Ferramentas:
 
@@ -32,6 +33,7 @@ Para inserir uma nova ferramenta, curso, dica e afins, crie um PR e entre em con
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Learn/CSS)
 - [Cascading Style Sheets | W3C](https://www.w3.org/Style/CSS/Overview.en.html)
 - [W3C Org](https://www.w3.org/Style/CSS/specs.en.html)
+- [CSS Grid Layout](https://drafts.csswg.org/css-grid-3/)
 
 ## Sites de guias:
 
@@ -41,12 +43,17 @@ Para inserir uma nova ferramenta, curso, dica e afins, crie um PR e entre em con
 - [Frontend Masters](https://frontendmasters.com/learn/css/)
 - [learn-html.org](https://learn-html.org/)
 - [theodinproject](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css)
+- [Origamid Grid](https://www.origamid.com/projetos/grid/)
+- [Origamid Grid](https://www.origamid.com/projetos/css-grid-layout-guia-completo/)
 
 ## Frameworks:
 
 - [Tailwind](https://tailwindcss.com/)
 - [Bootstrap](https://getbootstrap.com.br/)
 - [Materialize](https://materializecss.com/)
+- [Bulma](https://bulma.io/)
+- [Semantic UI](https://semantic-ui.com/)
+- [Pure CSS](https://purecss.io/)
 
 ## Bibliotecas:
 
@@ -68,6 +75,7 @@ Para inserir uma nova ferramenta, curso, dica e afins, crie um PR e entre em con
 - [Fluke Out](https://flukeout.github.io/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [CSS Grid Garden](https://cssgridgarden.com/)
+- [CSS Battles](https://cssbattle.dev/)
 
 
 ## Modelos prontos
@@ -92,3 +100,6 @@ Para inserir uma nova ferramenta, curso, dica e afins, crie um PR e entre em con
 - [haikei](https://haikei.app/) - Gerador de SVG
 - [Hero Patterns](https://heropatterns.com/) - planos de fundo SVG
 - [Shadows Brumm](https://shadows.brumm.af/) - Gerador de sombras
+- [CSS Gradient](https://cssgradient.io/) - Gerador de gradient
+- [CSS Stripes Generator](https://stripesgenerator.com/) - Gerador de gradient
+- [CSS References](https://cssreference.io/) - Gerador de gradient
